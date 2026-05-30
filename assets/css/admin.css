@@ -1,0 +1,61 @@
+```css
+/* Admin styles for Mistral Chatbot Manager */
+.mistral-chatbot-settings .form-table th {
+    width: 200px;
+}
+
+.mistral-color-picker {
+    width: 100px;
+}
+
+.mistral-flow-container {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.mistral-flow-editor {
+    flex: 1;
+}
+
+.mistral-flow-preview {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+#mistral-mermaid-diagram {
+    min-height: 300px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    background: #fff;
+}
+
+.mermaid-preview {
+    min-height: 500px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    background: #fff;
+}
+
+.mistral-guidelines-editor {
+    margin-bottom: 20px;
+}
+
+.mistral-guidelines-examples {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f9f9f9;
+    border-radius: 4px;
+}
+
+.mistral-guidelines-examples ul {
+    margin: 10px 0 0 20px;
+    padding: 0;
+}
+
+.mistral-guidelines-examples li {
+    margin-bottom: 5px;
+}
